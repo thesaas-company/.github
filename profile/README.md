@@ -3,9 +3,10 @@
 </p>
 <p align="center">
   <a href="https://datasherlocks.io">Home</a> |
-  <a href="https://github.com/datasherlocks/datasherlocks">Source</a> |
   <a href="https://datasherlocks.io/docs">Docs</a> |
-  <a href="https://forum.datasherlocks.io">Discuss</a>
+  <a href="https://buf.build/datasherlocks/cloud">API Docs</a > |
+  <a href="https://buf.build/studio/datasherlocks/cloud/main?serviceDialog=open">Buf Studio</a > |
+  <a href="https://forum.datasherlocks.io">Discuss</a> 
 </p>
 <p align='center'>
   <a href="https://github.com/datapane/datapane/">
@@ -14,7 +15,7 @@
 </p>
 
 <p align='center'>
-  <h1 align='center'> Generate complex database query in secounds</h1>
+  <h1 align='center'>Generate complex database query in secounds</h1>
 </p>
 Welcome to our Datasherlocks powered by Large Language Model! We are excited to introduce you to the cutting-edge technology that enables you to seamlessly convert natural language queries into structured SQL queries.
 <br>
