@@ -3,13 +3,14 @@
 </p>
 <p align="center">
   <a href="https://datasherlocks.io">Home</a> |
+  <a href="https://github.com/datasherlocks/datasherlocks">Source</a> |
   <a href="https://datasherlocks.io/docs">Docs</a> |
   <a href="https://buf.build/datasherlocks/cloud">API Docs</a > |
   <a href="https://buf.build/studio/datasherlocks/cloud/main?serviceDialog=open">Buf Studio</a > |
   <a href="https://forum.datasherlocks.io">Discuss</a> 
 </p>
 <p align='center'>
-  <a href="https://github.com/datapane/datapane/">
+  <a href="https://github.com/datasherlocks/datasherlocks/">
       <img src="https://img.shields.io/github/stars/datasherlocks/datasherlocks?style=social" alt="GitHub Stars" />
   </a>
 </p>
