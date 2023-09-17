@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://datasherlocks.io">Data Sherlock</a>
+  <a href="https://datasherlock.io">Data Sherlock</a>
 </p>
 <p align="center">
-  <a href="https://datasherlocks.io">Home</a> |
-  <a href="https://github.com/datasherlocks/datasherlocks">Source</a> |
-  <a href="https://datasherlocks.io/docs">Docs</a> |
-  <a href="https://buf.build/datasherlocks/cloud">API Docs</a > |
-  <a href="https://buf.build/studio/datasherlocks/cloud/main?serviceDialog=open">Buf Studio</a > |
-  <a href="https://forum.datasherlocks.io">Discuss</a> 
+  <a href="https://datasherlock.io">Home</a> |
+  <a href="https://github.com/datasherlocks/datasherlock">Source</a> |
+  <a href="https://datasherlock.io/docs">Docs</a> |
+  <a href="https://buf.build/datasherlock.io/cloud">API Docs</a > |
+  <a href="https://buf.build/studio/datasherlock/cloud/main?serviceDialog=open">Buf Studio</a > |
+  <a href="https://forum.datasherlock.io">Discuss</a> 
 </p>
 <p align='center'>
   <a href="https://github.com/datasherlocks/datasherlocks/">
@@ -24,12 +24,12 @@ Welcome to our Datasherlocks powered by Large Language Model! We are excited to 
 <br>
 
 <p align="center">
-  <a href="https://datasherlocks.io">
+  <a href="https://datasherlock.io">
     
   </a>
 </p>
 
-### What makes datasherlocks special?
+### What makes datasherlock special?
 
 -   **Fine-tuned to Your Domain**:
 -   **99+% Accuracy**:
@@ -41,18 +41,18 @@ Welcome to our Datasherlocks powered by Large Language Model! We are excited to 
 
 # Getting Started
 
-Want a head start? Check out our _Datasherlocks in 1 minutes_ video:
+Want a head start? Check out our _Datasherlock in 1 minutes_ video:
 
 [![asciicast](https://asciinema.org/a/607242.svg)](https://asciinema.org/a/607242)
 
 ## Installing Datasherlocks
 
-The best way to install Datasherlocks is through brew or curl.
+The best way to install Datasherlock is through brew or curl.
 
 #### Curl
 
 ```
-$ curl -sL https://registry.datasherlocks.io/sherlock |  sudo bash -s -- -b /usr/local/bin
+$ curl -sL https://registry.datasherlock.io/sherlock |  sudo bash -s -- -b /usr/local/bin
 ```
 
 #### Brew
@@ -69,8 +69,8 @@ sherlock also works well in hosted Jupyter environments such as Colab or Binder,
 
 # Next Steps
 
--   [Architecture](https://datasherlocks.io/docs/arch)
--   [Sign up for a free Cloud account](https://datasherlocks.io/auth/sign-up)
--   [Getting Started](https://datasherlocks.io/docs/getting-started)
--   [Read the documentation](https://datasherlocks.io/docs)
--   [Discuss with the community](https://forum.datasherlocks.io)
+-   [Architecture](https://datasherlock.io/docs/arch)
+-   [Sign up for a free Cloud account](https://datasherlock.io/auth/sign-up)
+-   [Getting Started](https://datasherlock.io/docs/getting-started)
+-   [Read the documentation](https://datasherlock.io/docs)
+-   [Discuss with the community](https://forum.datasherlock.io)
